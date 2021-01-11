@@ -1,4 +1,4 @@
-## How to get your debug the SHA-1 fingerprint certificate in Android Studio
+## How to get your debug SHA-1 fingerprint certificate in Android Studio
 
 Hello again,
 I was working on a pet project over the weekend and was trying to connect the app to Firebase, so I got to a part where I needed to input my app's SHA-1 fingerprint certificate for debug mode. I found this easy way to do it and I'll be sharing that in this article.
